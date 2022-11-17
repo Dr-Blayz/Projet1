@@ -1,0 +1,13 @@
+div #menu:hover{
+    color: #1fb4ff;
+    font-weight: bolder;
+   
+   }
+   div #menu{
+       color:white
+       
+   }
+   
+   #header{
+       padding: 9%;
+   }
