@@ -40,7 +40,7 @@
                             <h1 class="display-5 fw-bolder text-white mb-2">LOGICIEL DE CAISSE ENREGISTREUSE POUR CAFÉ</h1>
                             <p class="lead text-white mb-4">Le meilleur logiciel de caisse du marché pour le secteur des Café.</p>
                             <div class="d-grid gap-3 d-sm-flex justify-content-sm-center">
-                                <a class="btn btn-outline-light btn-lg px-4" href="#!">DEMANDER VOTRE DEVIS</a>
+                                <a class="btn btn-outline-light btn-lg px-4" href="#!"><b>DEMANDER VOTRE DEVIS</b></a>
                             </div>
                         </div>
                     </div>
